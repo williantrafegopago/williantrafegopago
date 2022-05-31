@@ -1,6 +1,6 @@
 🎯 Gestor de Tráfego e Lançador de Produtos Digitais | 
 🚀 Mentorado VTSD | 
-🌐 Comunidade Sobral |
+🌐 Comunidade Sobral
  | Em busca de conhecimento em programação...
 
 
